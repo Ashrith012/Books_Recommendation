@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## 🌐 Live Demo
 
-You can view the project online at (e.g., [Books Recommendations.](https://booksrecom.streamlit.app/))
+You can view the project online at [Books Recommendations.](https://booksrecom.streamlit.app/)
 
 ## 🧠 Recommendation Techniques
 
