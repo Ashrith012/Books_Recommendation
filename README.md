@@ -1,6 +1,6 @@
 # 📚 Book Recommendations
 
-This is a machine learning project developed by **Ashrith Bejjarapu**, providing book recommendations using Cosine Similarity and Collaborative Filtering. The system is designed to suggest books based on user preferences and past interactions, leveraging advanced recommendation techniques.
+This is a machine learning project that provides book recommendations using Cosine Similarity and Collaborative Filtering. The system is designed to suggest books based on user preferences and past interactions, leveraging advanced recommendation techniques.
 
 ## ✨ Features
 
