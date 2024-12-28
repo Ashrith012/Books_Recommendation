@@ -43,7 +43,7 @@ pip install -r requirements.txt
    ```bash
    streamlit run app.py
    ```
-2. Open your browser to the URL provided by Streamlit (e.g., http://localhost:8501).
+2. Open your browser to the URL provided by Streamlit (e.g., [http://localhost:8501](http://localhost:8503/)).
 3. Interact with the interface to get personalized book recommendations.
 
 ## 🧠 Recommendation Techniques
