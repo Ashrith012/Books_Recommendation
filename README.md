@@ -83,7 +83,10 @@ Books_Recommendations/
 - Improve the UI/UX for better user interaction.
 
 ## 📸 Screenshots
-Include relevant screenshots of the application interface and features here for a visual understanding of the project.
+
+#Home Page
+![Screenshot (1)](https://github.com/user-attachments/assets/3daff1fc-2af8-42d7-96a9-0f379ec7c9ca)
+
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
