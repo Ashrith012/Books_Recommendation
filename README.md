@@ -87,6 +87,20 @@ Books_Recommendations/
 #### Home Page
 ![Screenshot (1)](https://github.com/user-attachments/assets/3daff1fc-2af8-42d7-96a9-0f379ec7c9ca)
 
+#### All Books
+![Screenshot (2)](https://github.com/user-attachments/assets/c86736af-aa1f-41ae-a100-541db159a9e8)
+
+#### Selected Books
+![Screenshot (3)](https://github.com/user-attachments/assets/6def07f1-ad4e-4341-9794-cef7a6c1bbf7)
+
+#### Data Used
+![Screenshot (4)](https://github.com/user-attachments/assets/050f8b63-9454-4a6e-852e-65434914ff67)
+![Screenshot (5)](https://github.com/user-attachments/assets/a702af47-0ae4-48fa-9ac3-72f83cd7c053)
+
+
+
+
+
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
